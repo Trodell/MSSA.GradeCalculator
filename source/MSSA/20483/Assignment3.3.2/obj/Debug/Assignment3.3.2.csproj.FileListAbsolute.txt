@@ -1,0 +1,10 @@
+C:\Users\Owner\source\MSSA\20483\Assignment3.3.2\bin\Debug\Assignment3.3.2.exe.config
+C:\Users\Owner\source\MSSA\20483\Assignment3.3.2\bin\Debug\Assignment3.3.2.exe
+C:\Users\Owner\source\MSSA\20483\Assignment3.3.2\bin\Debug\Assignment3.3.2.pdb
+C:\Users\Owner\source\MSSA\20483\Assignment3.3.2\obj\Debug\Assignment3.3.2.csproj.AssemblyReference.cache
+C:\Users\Owner\source\MSSA\20483\Assignment3.3.2\obj\Debug\Assignment3._3._2.Form1.resources
+C:\Users\Owner\source\MSSA\20483\Assignment3.3.2\obj\Debug\Assignment3._3._2.Properties.Resources.resources
+C:\Users\Owner\source\MSSA\20483\Assignment3.3.2\obj\Debug\Assignment3.3.2.csproj.GenerateResource.cache
+C:\Users\Owner\source\MSSA\20483\Assignment3.3.2\obj\Debug\Assignment3.3.2.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\MSSA\20483\Assignment3.3.2\obj\Debug\Assignment3.3.2.exe
+C:\Users\Owner\source\MSSA\20483\Assignment3.3.2\obj\Debug\Assignment3.3.2.pdb
